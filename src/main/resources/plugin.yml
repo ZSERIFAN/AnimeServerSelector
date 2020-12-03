@@ -1,0 +1,6 @@
+name: AnimeServerSelector
+main: by.thm.AnimeServerSelector
+description: Enables server selector.
+version: 1.0
+author: thmihnea
+api-version: 1.13
