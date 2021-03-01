@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="AnimeServerSelector:jar">
-    <output-path>$USER_HOME$/Desktop/rohi server/factions/plugins</output-path>
-    <root id="archive" name="AnimeServerSelector.jar">
-      <element id="module-output" name="AnimeServerSelector" />
-    </root>
-  </artifact>
-</component>
